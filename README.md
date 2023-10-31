@@ -1,7 +1,7 @@
 # Quickshell-kabana
 The Working website looks like:
 
-<P> <img src =" "D:\vs code\React\kanban-board\ss\Screenshot 2023-10-31 103211.jpg"></P>
+
 
 ![Screenshot 2023-10-31 103449](https://github.com/YashSri17/Quickshell-kabana/assets/138300118/2c302f02-5810-492b-8622-3c78724a62a3)
 ![Screenshot 2023-10-31 103353](https://github.com/YashSri17/Quickshell-kabana/assets/138300118/e50ae7db-1a37-47de-8376-438cabdcebae)
