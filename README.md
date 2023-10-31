@@ -1,6 +1,6 @@
 # Quickshell-kabana
 
-link of website in About
+Link of website is in About
 
 The Working website looks like:
 
