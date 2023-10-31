@@ -1,7 +1,8 @@
 # Quickshell-kabana
 
 link of website:
-<link="quickshell-kabana.vercel.app >
+
+<a href="quickshell-kabana.vercel.app">link App</a>
 The Working website looks like:
 
 
